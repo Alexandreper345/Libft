@@ -27,6 +27,7 @@ SRC = 	ft_atoi.c \
 	ft_putendl_fd.c \
 	ft_striteri.c \
 	ft_strncmp.c \
+	ft_strcmp.c \
 	ft_toupper.c \
 	ft_isalpha.c \
 	ft_memcmp.c \
